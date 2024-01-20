@@ -1,0 +1,17 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: GSMMHMUltraSlim.PcbDoc   4/26/2016  8:02:59 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : GSMMHMUltraSlim-Plated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          100              221.68 mm (8.73 Inch)
+T2        0.8mm (31.496mil)        Round          7                47.19 mm (1.86 Inch)
+T3        1.15mm (45.276mil)       Round          2                2.54 mm (0.10 Inch)
+T4        2mm (78.74mil)           Round          2                11.18 mm (0.44 Inch)
+---------------------------------------------------------------------------
+Totals                                            111              282.59 mm (11.13 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,31 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: GSMLiftSquare.PcbDoc   1/28/2017  12:13:47 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : GSMLiftSquare-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : GSMLiftSquare-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : GSMLiftSquare-SlotHoles-Plated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.5mm (19.685mil)        Round          178              602.23 mm (23.71 Inch)
+T2        0.5mm (19.685mil)        Slot           1                7189.72 mm (283.06 Inch)
+T3        0.65mm (25.591mil)       Round          5                6.86 mm (0.27 Inch)
+T4        0.7mm (27.559mil)        Round          2                3.80 mm (0.15 Inch)
+T5        0.75mm (29.528mil)       Round          2                5.85 mm (0.23 Inch)
+T6        0.85mm (33.465mil)       Round          14               75.61 mm (2.98 Inch)
+T7        1mm (39.37mil)           Round          4                15.50 mm (0.61 Inch)
+T8        1.15mm (45.276mil)       Round          7                63.59 mm (2.50 Inch)
+T9        1.2mm (47.244mil)        Round          6                72.13 mm (2.84 Inch)
+T10       1.3mm (51.181mil)        Round          7                27.03 mm (1.06 Inch)
+T11       1.5mm (59.055mil)        Round          5                59.00 mm (2.32 Inch)
+T12       1.7mm (66.929mil)        Round          5                17.34 mm (0.68 Inch)
+T13       1.75mm (68.898mil)       Round          1                0.00 mm (0.00 Inch)
+T14       2.1mm (82.677mil)        Round          2                8.30 mm (0.33 Inch)
+T15       4mm (157.48mil)          Round          3                80.00 mm (3.15 Inch)
+T16       0.8mm (31.496mil)        Round          2         NPTH   4.40 mm (0.17 Inch)
+---------------------------------------------------------------------------
+Totals                                            244              8231.36 mm (324.07 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:01

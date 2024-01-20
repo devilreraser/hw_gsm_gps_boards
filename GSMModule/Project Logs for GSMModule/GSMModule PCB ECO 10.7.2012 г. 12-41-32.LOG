@@ -1,0 +1,7 @@
+Added Component: Designator=S1(TactBut)
+Added Pin To Net: NetName=POWER_ON Pin=S1-1
+Added Pin To Net: NetName=POWER_ON Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Pin To Net: NetName=POWER_ON Pin=U1-11
+Added Member To Class: ClassName=GSMModule Member=Component S1 SW SPST

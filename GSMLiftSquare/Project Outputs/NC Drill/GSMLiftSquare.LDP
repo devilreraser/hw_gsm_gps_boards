@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\AProj\GSMLiftSquare\GSMLiftSquare.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=gsmliftsquare-roundholes-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=gsmliftsquare-slotholes-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=gsmliftsquare-roundholes-nonplated.txt|LayerPairs=gtl,gbl

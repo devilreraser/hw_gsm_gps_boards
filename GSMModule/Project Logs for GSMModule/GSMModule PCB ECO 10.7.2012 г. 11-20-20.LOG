@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U1
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Added Pin To Net: NetName=RX Pin=U1-12
+Added Pin To Net: NetName=PGC Pin=U1-18
+Added Member To Class: ClassName=GSMModule Member=Component U2 Quectel M10

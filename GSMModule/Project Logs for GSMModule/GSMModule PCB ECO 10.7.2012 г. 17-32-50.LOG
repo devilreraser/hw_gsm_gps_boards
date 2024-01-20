@@ -1,0 +1,80 @@
+Change Component Designator: OldDesignator=P? NewDesignator=P1
+Added Component: Designator=C1(6032 + RA 10MM)
+Added Component: Designator=C2(3528 + RA 6.3mm)
+Added Component: Designator=C3(0603)
+Added Component: Designator=D1(DIODE0.4 + SMA)
+Added Component: Designator=D18(DIODE0.4 + SMA)
+Added Component: Designator=J2(JACK/6-V3)
+Added Component: Designator=J14(HD-515V 2P)
+Added Component: Designator=L1(3528 + RA 6.3mm)
+Added Component: Designator=R1(0805)
+Added Component: Designator=R2(0805)
+Added Component: Designator=R3(0805)
+Added Component: Designator=R4(0603)
+Added Component: Designator=R5(0603)
+Added Component: Designator=U5(SO-8)
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=4V Pin=C2-1
+Added Pin To Net: NetName=4V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=D1-A
+Added Pin To Net: NetName=GND Pin=D1-A
+Added Pin To Net: NetName=SPK2P Pin=J2-1
+Added Pin To Net: NetName=SPK1P Pin=J2-3
+Added Pin To Net: NetName=SPK1N Pin=J2-5
+Added Pin To Net: NetName=GND Pin=J14-1
+Added Pin To Net: NetName=4V Pin=L1-2
+Added Pin To Net: NetName=4V Pin=L1-2
+Added Pin To Net: NetName=4V Pin=R4-1
+Added Pin To Net: NetName=GND Pin=R5-2
+Added Pin To Net: NetName=GND Pin=U5-4
+Added Pin To Net: NetName=NetC3_1 Pin=C3-1
+Added Pin To Net: NetName=NetC3_1 Pin=U5-3
+Added Net: Name=NetC3_1
+Added Pin To Net: NetName=NetD1_K Pin=D1-K
+Added Pin To Net: NetName=NetD1_K Pin=D1-K
+Added Pin To Net: NetName=NetD1_K Pin=L1-1
+Added Pin To Net: NetName=NetD1_K Pin=L1-1
+Added Pin To Net: NetName=NetD1_K Pin=U5-2
+Added Net: Name=NetD1_K
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-1
+Added Pin To Net: NetName=NetR1_1 Pin=R3-1
+Added Pin To Net: NetName=NetR1_1 Pin=U5-1
+Added Pin To Net: NetName=NetR1_1 Pin=U5-7
+Added Pin To Net: NetName=NetR1_1 Pin=U5-8
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=R5-1
+Added Pin To Net: NetName=NetR4_2 Pin=U5-5
+Added Net: Name=NetR4_2
+Added Pin To Net: NetName=POWER Pin=D18-A
+Added Pin To Net: NetName=POWER Pin=D18-A
+Added Pin To Net: NetName=POWER Pin=J14-2
+Added Net: Name=POWER
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=D18-K
+Added Pin To Net: NetName=VCC Pin=D18-K
+Added Pin To Net: NetName=VCC Pin=R1-2
+Added Pin To Net: NetName=VCC Pin=R2-2
+Added Pin To Net: NetName=VCC Pin=R3-2
+Added Pin To Net: NetName=VCC Pin=U5-6
+Added Net: Name=VCC
+Added Member To Class: ClassName=GSMModule Member=Component C1 100uF
+Added Member To Class: ClassName=GSMModule Member=Component C2 470uF
+Added Member To Class: ClassName=GSMModule Member=Component C3 1nF
+Added Member To Class: ClassName=GSMModule Member=Component D1 DIODE SCHOTTKY
+Added Member To Class: ClassName=GSMModule Member=Component D18 DIODE
+Added Member To Class: ClassName=GSMModule Member=Component J2 Phonejack3
+Added Member To Class: ClassName=GSMModule Member=Component J14 CON2
+Added Member To Class: ClassName=GSMModule Member=Component L1 220uH
+Added Member To Class: ClassName=GSMModule Member=Component R1 1
+Added Member To Class: ClassName=GSMModule Member=Component R2 1
+Added Member To Class: ClassName=GSMModule Member=Component R3 1
+Added Member To Class: ClassName=GSMModule Member=Component R4 2k2
+Added Member To Class: ClassName=GSMModule Member=Component R5 1k
+Added Member To Class: ClassName=GSMModule Member=Component U5 34063

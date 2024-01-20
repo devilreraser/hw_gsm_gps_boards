@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=R? Old Footprint=0603 RES New Footprint=0603
+Change Component Designator: OldDesignator=C11 NewDesignator=C?
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Member To Class: ClassName=GSMModule Member=Component C? 10pF

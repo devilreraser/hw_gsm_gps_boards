@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=SPK1P Pin=J2-1
+Removed Pin From Net: NetName=SPK1P Pin=J2-2
+Removed Pin From Net: NetName=SPK1N Pin=J2-5
+Removed Pin From Net: NetName=MIC1N Pin=J3-1
+Removed Pin From Net: NetName=MIC1P Pin=J3-2
+Removed Pin From Net: NetName=MIC1P Pin=J3-5
+Change Component Comment : Designator=J3 Old Comment=MIC Normal Ch. New Comment=Speaker Normal Ch.
+Change Component Comment : Designator=J2 Old Comment=Speaker Normal Ch. New Comment=MIC Normal Ch.
+Added Pin To Net: NetName=MIC1N Pin=J2-1
+Added Pin To Net: NetName=MIC1P Pin=J2-2
+Added Pin To Net: NetName=MIC1P Pin=J2-5
+Added Pin To Net: NetName=SPK1N Pin=J3-1
+Added Pin To Net: NetName=SPK1P Pin=J3-2
+Added Pin To Net: NetName=SPK1P Pin=J3-5

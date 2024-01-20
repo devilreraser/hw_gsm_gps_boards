@@ -1,0 +1,19 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: GSMGPSMC60.PcbDoc   9/1/2016  11:53:58 PM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : GSMGPSMC60-RoundHoles-Plated.TXT
+ASCII Plated SlotHoles File : GSMGPSMC60-SlotHoles-Plated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.35mm (13.78mil)        Slot           2                7234.27 mm (284.81 Inch)
+T2        0.4mm (15.748mil)        Round          228              484.64 mm (19.08 Inch)
+T3        0.5mm (19.685mil)        Round          4                9.67 mm (0.38 Inch)
+T4        0.8mm (31.496mil)        Round          7                26.23 mm (1.03 Inch)
+T5        1.15mm (45.276mil)       Round          2                2.54 mm (0.10 Inch)
+---------------------------------------------------------------------------
+Totals                                            243              7757.35 mm (305.41 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

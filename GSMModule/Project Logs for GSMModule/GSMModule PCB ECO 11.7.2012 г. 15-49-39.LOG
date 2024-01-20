@@ -1,0 +1,87 @@
+Removed Pin From Net: NetName=SPK2P Pin=J2-2
+Removed Pin From Net: NetName=MIC2P Pin=J3-1
+Removed Pin From Net: NetName=SPK1N Pin=P1-1
+Removed Pin From Net: NetName=AGND Pin=P1-2
+Removed Pin From Net: NetName=SPK2P Pin=U2-20
+Removed Pin From Net: NetName=MIC1N Pin=U2-26
+Removed Member From Class: ClassName=GSMModule Member=P1
+Change Component Comment : Designator=J3 Old Comment=Phonejack3 New Comment=MIC Normal Ch.
+Change Component Comment : Designator=J2 Old Comment=Phonejack3 New Comment=Speaker Normal Ch.
+Added Component: Designator=C4(0603)
+Added Component: Designator=C5(0603)
+Added Component: Designator=C6(0603)
+Added Component: Designator=C7(0603)
+Added Component: Designator=C8(0603)
+Added Component: Designator=C9(0603)
+Added Component: Designator=C10(0603)
+Added Component: Designator=C11(0603)
+Added Component: Designator=C12(0603)
+Added Component: Designator=C13(0603)
+Added Component: Designator=C14(0603)
+Added Component: Designator=C15(0603)
+Added Component: Designator=C16(0603)
+Added Component: Designator=C17(0603)
+Added Component: Designator=C18(0603)
+Added Component: Designator=C19(0603)
+Added Component: Designator=C20(0603)
+Added Component: Designator=J6(Stereo Jack F)
+Added Pin To Net: NetName=SPK2P Pin=C4-2
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=MIC2P Pin=C5-2
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=MIC2P Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=SPK2P Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=SPK2P Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=MIC1P Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=MIC1P Pin=C10-2
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=SPK1P Pin=C11-2
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=SPK1P Pin=C12-2
+Added Pin To Net: NetName=MIC1P Pin=C13-1
+Added Pin To Net: NetName=MIC1N Pin=C13-2
+Added Pin To Net: NetName=MIC1P Pin=C14-1
+Added Pin To Net: NetName=MIC1N Pin=C14-2
+Added Pin To Net: NetName=SPK1P Pin=C15-1
+Added Pin To Net: NetName=SPK1N Pin=C15-2
+Added Pin To Net: NetName=SPK1P Pin=C16-1
+Added Pin To Net: NetName=SPK1N Pin=C16-2
+Added Pin To Net: NetName=MIC1N Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C17-2
+Added Pin To Net: NetName=MIC1N Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=SPK1N Pin=C19-1
+Added Pin To Net: NetName=GND Pin=C19-2
+Added Pin To Net: NetName=SPK1N Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=SPK1P Pin=J2-2
+Added Pin To Net: NetName=MIC1P Pin=J3-1
+Added Pin To Net: NetName=MIC2P Pin=J6-1
+Added Pin To Net: NetName=SPK2P Pin=J6-2
+Added Pin To Net: NetName=AGND Pin=J6-5
+Added Pin To Net: NetName=AGND Pin=U2-26
+Added Pin To Net: NetName=SPK2P_M Pin=C4-1
+Added Pin To Net: NetName=SPK2P_M Pin=U2-20
+Added Net: Name=SPK2P_M
+Added Member To Class: ClassName=GSMModule Member=Component C4 22uF
+Added Member To Class: ClassName=GSMModule Member=Component C5 10pF
+Added Member To Class: ClassName=GSMModule Member=Component C6 33pF
+Added Member To Class: ClassName=GSMModule Member=Component C7 10pF
+Added Member To Class: ClassName=GSMModule Member=Component C8 33pF
+Added Member To Class: ClassName=GSMModule Member=Component C9 10pF
+Added Member To Class: ClassName=GSMModule Member=Component C10 33pF
+Added Member To Class: ClassName=GSMModule Member=Component C11 10pF
+Added Member To Class: ClassName=GSMModule Member=Component C12 33pF
+Added Member To Class: ClassName=GSMModule Member=Component C13 10pF
+Added Member To Class: ClassName=GSMModule Member=Component C14 33pF
+Added Member To Class: ClassName=GSMModule Member=Component C15 10pF
+Added Member To Class: ClassName=GSMModule Member=Component C16 33pF
+Added Member To Class: ClassName=GSMModule Member=Component C17 10pF
+Added Member To Class: ClassName=GSMModule Member=Component C18 33pF
+Added Member To Class: ClassName=GSMModule Member=Component C19 10pF
+Added Member To Class: ClassName=GSMModule Member=Component C20 33pF
+Added Member To Class: ClassName=GSMModule Member=Component J6 EarPhones

@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=MICP Pin=J2-1
+Removed Pin From Net: NetName=MICP Pin=J2-1
+Removed Pin From Net: NetName=MICN Pin=J2-2
+Removed Pin From Net: NetName=MICN Pin=J2-2
+Added Pin To Net: NetName=MICN Pin=J2-1
+Added Pin To Net: NetName=MICN Pin=J2-1
+Added Pin To Net: NetName=MICP Pin=J2-2
+Added Pin To Net: NetName=MICP Pin=J2-2
+Added Room: Name=GSMGPSMC60_2

@@ -1,0 +1,4 @@
+Added Component: Designator=J2(Stereo Jack F)
+Added Pin To Net: NetName=SPK2P Pin=J2-1
+Added Pin To Net: NetName=SPK1N Pin=J2-5
+Added Member To Class: ClassName=GSMModule Member=Component J2 Phonejack3

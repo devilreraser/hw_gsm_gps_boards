@@ -1,0 +1,12 @@
+Added Component: Designator=C1(RA 6.3MM)
+Added Component: Designator=C2(RA 6.3MM)
+Added Component: Designator=L1(RA 6.3MM)
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=4V Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=NetD1_K Pin=L1-1
+Added Pin To Net: NetName=4V Pin=L1-2
+Added Member To Class: ClassName=GSMModule Member=Component C1 100uF
+Added Member To Class: ClassName=GSMModule Member=Component C2 470uF
+Added Member To Class: ClassName=GSMModule Member=Component L1 220uH

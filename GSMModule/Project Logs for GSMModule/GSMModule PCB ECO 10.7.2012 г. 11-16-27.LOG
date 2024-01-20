@@ -1,0 +1,38 @@
+Added Component: Designator=J3(SIP5 - PGM)
+Added Component: Designator=U?(SOIC20WIDE)
+Added Pin To Net: NetName=4V Pin=J3-2
+Added Pin To Net: NetName=4V Pin=U?-1
+Added Net: Name=4V
+Added Pin To Net: NetName=AGND Pin=U?-19
+Added Net: Name=AGND
+Added Net: Name=BUZZER
+Added Pin To Net: NetName=GND Pin=J3-3
+Added Pin To Net: NetName=GND Pin=U?-8
+Added Pin To Net: NetName=GND Pin=U?-20
+Added Net: Name=GND
+Added Pin To Net: NetName=MCLR Pin=J3-1
+Added Pin To Net: NetName=MCLR Pin=U?-4
+Added Net: Name=MCLR
+Added Pin To Net: NetName=PGC Pin=J3-5
+Added Pin To Net: NetName=PGC Pin=U?-18
+Added Net: Name=PGC
+Added Pin To Net: NetName=PGD Pin=J3-4
+Added Pin To Net: NetName=PGD Pin=U?-19
+Added Net: Name=PGD
+Added Pin To Net: NetName=POWER_ON Pin=U?-18
+Added Net: Name=POWER_ON
+Added Net: Name=RF_ANT
+Added Pin To Net: NetName=RX Pin=U?-12
+Added Net: Name=RX
+Added Pin To Net: NetName=SIM_CLK Pin=U?-14
+Added Net: Name=SIM_CLK
+Added Pin To Net: NetName=SIM_DAT Pin=U?-13
+Added Net: Name=SIM_DAT
+Added Pin To Net: NetName=SIM_RST Pin=U?-15
+Added Net: Name=SIM_RST
+Added Pin To Net: NetName=SIM_VDD Pin=U?-12
+Added Net: Name=SIM_VDD
+Added Pin To Net: NetName=TX Pin=U?-10
+Added Net: Name=TX
+Added Class: Name=GSMModule
+Added Room: Name=GSMModule

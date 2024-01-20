@@ -1,0 +1,39 @@
+Bill of Material for 
+On 1.8.2012 ã. at 15:48:14
+
+ Comment             Pattern     Quantity  Components
+------------------------------------------------------------------------------
+ 1                   0805             1    R2                                                
+ 100uF               RA 6.3MM         1    C1                           Capacitor            
+ 10pF                0603             8    C5, C7, C9, C11, C13, C15    Capacitor            
+                                           C17, C19
+ 10uF                0805             3    C?, C?, C?                   Capacitor            
+ 1k                  0603             2    R5, R?                                            
+ 1nF                 0603             1    C3                           Capacitor            
+ 220uH               RA 6.3MM         1    L1                                                
+ 22k                 0603             1    R?                                                
+ 22uF                0603             1    C4                           Capacitor            
+ 2k2                 0603             1    R4                                                
+ 31AP4991            SO-8             1    U3                           Op-amp with differential inputs 
+ 33pF                0603             8    C6, C8, C10, C12, C14, C16   Capacitor            
+                                           C18, C20
+ 34063               SO-8             1    U5                           DC/DC converter      
+ 470uF               RA 6.3MM         1    C2                           Capacitor            
+ 47k                 0603             2    R?, R?                                            
+ CON2                HD-515V 2P       2    J4, J5                       Connector            
+ CON5                SIP5 - PGM       1    J1                           Connector            
+ DIODE SCHOTTKY      DIODE0.4 + SMA    1    D1                           Schottky Diode       
+ DIODE               DIODE0.4 + SMA    1    D18                          Diode                
+ DUAL OPAMP          SO-8             2    U?, U?                                            
+ EarPhones           Stereo Jack F    1    J6                           Jack Socket, 1/4" [6.5mm], Thru-Hole, Vertical, 3-Conductor Open Circuit (Non-Normalling) 
+ Header 2            HDR1X2           2    P3, P4                       Header, 2-Pin        
+ Header 3            HDR1X3           1    P1                           Header, 3-Pin        
+ MIC Normal Ch.      Stereo Jack F    1    J2                           Jack Socket, 1/4" [6.5mm], Thru-Hole, Vertical, 3-Conductor Open Circuit (Non-Normalling) 
+ MICROPHONE2                          1    MK?                          Microphone           
+ PIC16F1829          SOIC20WIDE       1    U1                           Microchip Microcontroller 
+ Quectel M10         QUECTEL_M10      1    U2                           GSM Module Quectel M10 
+ SIM Holder PP       SIM HOLDER PUSH    1    U6                           8-Pin SIM Holder Push-Push 
+ SIM Holder          SIM Holder       1    U4                           6-Pin SIM Holder     
+ SMA                 SMB_V-RJ45       1    P2                           SMB Straight Connector 
+ Speaker Normal Ch.  Stereo Jack F    1    J3                           Jack Socket, 1/4" [6.5mm], Thru-Hole, Vertical, 3-Conductor Open Circuit (Non-Normalling) 
+ SW SPST             TactBut          1    S1                                                

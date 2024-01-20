@@ -1,0 +1,8 @@
+Added Component: Designator=C11(0603)
+Added Component: Designator=R?(0603 RES)
+Added Component: Designator=U?(SO-8)
+Added Component: Designator=U?(SO-8)
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Pin To Net: NetName=GND Pin=U?-4
+Added Member To Class: ClassName=GSMModule Member=Component R? 2k2
+Added Member To Class: ClassName=GSMModule Member=Component U? DUAL OPAMP

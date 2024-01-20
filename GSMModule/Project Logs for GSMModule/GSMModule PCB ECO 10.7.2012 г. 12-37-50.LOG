@@ -1,0 +1,8 @@
+Added Component: Designator=U?(SIM Holder)
+Added Pin To Net: NetName=GND Pin=U?-1
+Added Pin To Net: NetName=SIM_DAT Pin=U?-3
+Added Pin To Net: NetName=SIM_CLK Pin=U?-4
+Added Pin To Net: NetName=SIM_RST Pin=U?-5
+Added Pin To Net: NetName=SIM_VDD Pin=U?-6
+Added Member To Class: ClassName=GSMModule Member=Component U1 PIC16F1829
+Added Member To Class: ClassName=GSMModule Member=Component U? SIM Holder

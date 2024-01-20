@@ -1,0 +1,5 @@
+Change Component Designator: OldDesignator=J14 NewDesignator=J5
+Added Component: Designator=J4(HD-515V 2P)
+Added Pin To Net: NetName=SPKOUTN Pin=J4-1
+Added Pin To Net: NetName=SPKOUTP Pin=J4-2
+Added Member To Class: ClassName=GSMModule Member=Component J4 CON2

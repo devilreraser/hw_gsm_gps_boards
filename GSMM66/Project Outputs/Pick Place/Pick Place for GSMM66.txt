@@ -1,0 +1,56 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+A3         SMD_CON_ANTENNA_GSM_PCB       4.775mm      21.975mm       4.775mm      21.975mm       4.775mm      21.975mm  T        360.00 PCB            
+C7         SMD_0402_CAPC1005X90N      25.425mm       11.55mm      25.425mm       11.55mm      25.425mm        11.1mm  B         90.00 10uF           
+R8         SMD_0402_RESC1005X37N       27.84mm       19.65mm       27.84mm       19.65mm       27.84mm       19.21mm  T         90.00 0              
+R7         SMD_0402_RESC1005X37N       27.35mm       19.16mm       27.35mm       19.16mm       27.79mm       19.16mm  T        180.00 0              
+R6         SMD_0402_RESC1005X37N       27.35mm       20.14mm       27.35mm       20.14mm       27.79mm       20.14mm  T        180.00 0              
+R5         SMD_0402_RESC1005X37N       26.86mm       19.65mm       26.86mm       19.65mm       26.86mm       19.21mm  T         90.00 0              
+R4         SMD_0402_RESC1005X37N        27.1mm      21.125mm        27.1mm      21.125mm       27.54mm      21.125mm  T        180.00 0              
+R3         SMD_0402_RESC1005X37N      29.165mm      26.005mm      29.165mm      26.005mm      29.165mm      26.445mm  T        270.00 0              
+R2         SMD_0402_RESC1005X37N       30.14mm      26.005mm       30.14mm      26.005mm       30.14mm      26.445mm  T        270.00 0              
+C27        SMD_0402_CAPC1005X90N        34.9mm      21.025mm        34.9mm      21.025mm       34.45mm      21.025mm  T        360.00 1uF            
+C26        SMD_0402_CAPC1005X90N       29.69mm       24.58mm       29.69mm       24.58mm       30.14mm       24.58mm  T        180.00 1uF            
+C19        SMD_0402_CAPC1005X90N       8.275mm        13.9mm       8.275mm        13.9mm       8.275mm       13.45mm  B         90.00 10pF           
+C17        SMD_0402_CAPC1005X90N       9.275mm        13.9mm       9.275mm        13.9mm       9.275mm       13.45mm  B         90.00 33pF           
+C15        SMD_0402_CAPC1005X90N       9.725mm     12.4748mm       9.725mm     12.4748mm      10.175mm     12.4748mm  B        180.00 10pF           
+C13        SMD_0402_CAPC1005X90N       9.725mm     11.4498mm       9.725mm     11.4498mm      10.175mm     11.4498mm  B        180.00 33pF           
+C11        SMD_0402_CAPC1005X90N      10.175mm        13.9mm      10.175mm        13.9mm      10.175mm       14.35mm  B        270.00 10pF           
+C10        SMD_0402_CAPC1005X90N       11.15mm        13.9mm       11.15mm        13.9mm       11.15mm       14.35mm  B        270.00 33pF           
+C1         SMD_0402_CAPC1005X90N      13.375mm        1.65mm      13.375mm        1.65mm      13.375mm         1.2mm  T         90.00 10uF           
+C2         SMD_0402_CAPC1005X90N      34.975mm      29.375mm      34.975mm      29.375mm      34.975mm      28.925mm  T         90.00 1uF            
+C3         SMD_0402_CAPC1005X90N      36.275mm      29.375mm      36.275mm      29.375mm      36.275mm      28.925mm  T         90.00 1uF            
+C8         SMD_0402_CAPC1005X90N       0.725mm        4.05mm       0.725mm        4.05mm       0.725mm         3.6mm  T         90.00 33pF           
+C12        SMD_0402_CAPC1005X90N       6.575mm       5.875mm       6.575mm       5.875mm       6.125mm       5.875mm  B        360.00 33pF           
+C14        SMD_0402_CAPC1005X90N       6.575mm       4.875mm       6.575mm       4.875mm       6.125mm       4.875mm  B        360.00 10pF           
+C16        SMD_0402_CAPC1005X90N         7.5mm        7.85mm         7.5mm        7.85mm        7.05mm        7.85mm  B        360.00 33pF           
+C18        SMD_0402_CAPC1005X90N         7.5mm        6.85mm         7.5mm        6.85mm        7.05mm        6.85mm  B        360.00 10pF           
+C20        SMD_0402_CAPC1005X90N       8.475mm       5.875mm       8.475mm       5.875mm       8.025mm       5.875mm  B        360.00 33pF           
+C22        SMD_0402_CAPC1005X90N       8.475mm       4.875mm       8.475mm       4.875mm       8.025mm       4.875mm  B        360.00 10pF           
+J3         PTH_MIC_6MM_2.7MM_PITCH1.9       9.725mm      9.9499mm       9.725mm      9.0499mm      10.475mm     10.0499mm  B        180.00 CON_2PINS      
+J5         PTH_HDRV02W64P254_1X02      31.525mm        29.1mm      31.525mm        29.1mm      32.795mm        29.1mm  T        180.00 CON_2PINS      
+U4         SMD_SOT26_SOT95P285X140-5N_-_DLV        32.8mm        26.1mm        32.8mm        26.1mm       33.75mm        27.4mm  T        270.00 MCP73811 450mA 
+J8         SMD_CON-ATTEND_MICRO_SIM_115Q-BCA0      30.625mm       9.675mm        38.5mm       9.675mm       22.75mm      13.245mm  T         90.00 CON_13PINS     
+J2         PTH_MIC_6MM_2.7MM_PITCH1.9         7.5mm           2mm         7.5mm         2.9mm        6.75mm         1.9mm  B        360.00 CON_2PINS      
+J1         SMD_CON_MICRO_USB      37.325mm        24.6mm          36mm        24.6mm          36mm        23.3mm  T        360.00 ATTEND 207A-BBA0-R
+R13        SMD_0402_RESC1005X37N        21.4mm         1.4mm        21.4mm         1.4mm        21.4mm        1.84mm  T        270.00 0              
+A4         SMD_CON_ANTENNA_UFL       4.775mm      21.475mm       4.775mm      22.225mm       4.775mm      20.725mm  T          0.00 ANTENNA_UFL    
+C23        SMD_0402_CAPC1005X90N      0.7197mm        6.45mm      0.7197mm        6.45mm      0.7197mm         6.9mm  T        270.00 10pF           
+C24        SMD_0402_CAPC1005X90N       0.725mm      12.375mm       0.725mm      12.375mm       0.725mm      12.825mm  T        270.00 10uF           
+C25        SMD_0402_CAPC1005X90N      0.7197mm       9.975mm      0.7197mm       9.975mm      0.7197mm       9.525mm  T         90.00 100nF          
+J15        SIP5_-_PGM             36.6mm       9.825mm        36.6mm       9.825mm        36.6mm        4.75mm  T         90.00 CON_5PINS      
+A1         SMD_CON_ANTENNA_UFL      14.675mm      21.475mm      14.675mm      22.225mm      14.675mm      20.725mm  T          0.00 UFL            
+U4         SMD_MOD_M66-44N      11.375mm      11.625mm      11.375mm      11.625mm       4.775mm       4.225mm  T         90.00 QUECTEL_M66    
+D4         SMD_0805_LED2012X100N         2.6mm         1.6mm         2.6mm         1.6mm        1.55mm         1.6mm  T        360.00 LED_CALL       
+D6         SMD_0805_LED2012X100N      10.975mm        1.65mm      10.975mm        1.65mm      12.025mm        1.65mm  T        180.00 LED_NETWORK    
+R1         SMD_0402_RESC1005X37N      34.475mm      19.625mm      34.475mm      19.625mm      34.475mm      19.185mm  T         90.00 0              
+SW1        SMD_SW_TACT-64K_5        6.55mm      19.425mm        6.55mm      19.425mm        2.55mm      21.675mm  B        270.00 DTSM-62N       
+C4         SMD_1210_CAPC3225X279N       2.675mm        14.2mm       2.675mm        14.2mm       1.225mm        14.2mm  B        360.00 220uF          
+C5         SMD_1210_CAPC3225X279N       2.675mm          11mm       2.675mm          11mm       1.225mm          11mm  B        360.00 220uF          
+C6         SMD_1210_CAPC3225X279N       2.675mm         7.8mm       2.675mm         7.8mm       1.225mm         7.8mm  B        360.00 220uF          
+C21        SMD_1210_CAPC3225X279N       2.675mm         4.6mm       2.675mm         4.6mm       1.225mm         4.6mm  B        360.00 220uF          
+J10        SMD_CON-ATTEND_SIM_115A-BDA0-R01       24.12mm      11.225mm        40.1mm          12mm        13.7mm        7.74mm  B        270.00 CON_14PINS     
+J4         PTH_HDRV03W64P254_1X03       17.65mm         1.4mm       17.65mm         1.4mm       20.19mm         1.4mm  T        180.00 CON_3PINS      
+SW2        SMD_SW_DTSM-3         22.35mm      20.725mm       22.35mm      20.725mm       19.65mm      20.725mm  T        360.00 BUTTON_3       
+U1         SMD_QFN50P400X400X90-17N      31.275mm       21.35mm      31.275mm       21.35mm      29.325mm      22.325mm  T          0.00 IC_PIC16F1454-QFN
+

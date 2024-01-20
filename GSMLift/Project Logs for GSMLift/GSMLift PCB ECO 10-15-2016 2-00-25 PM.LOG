@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=MICP Pin=J13-1
+Removed Pin From Net: NetName=MICP Pin=J13-1
+Removed Pin From Net: NetName=MICN Pin=J13-2
+Removed Pin From Net: NetName=MICN Pin=J13-2
+Added Pin To Net: NetName=MICN Pin=J13-1
+Added Pin To Net: NetName=MICN Pin=J13-1
+Added Pin To Net: NetName=MICP Pin=J13-2
+Added Pin To Net: NetName=MICP Pin=J13-2

@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=U? NewDesignator=U6
+Added Component: Designator=P1(HDR1X3)
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=TX Pin=P1-2
+Added Pin To Net: NetName=RX Pin=P1-3
+Added Member To Class: ClassName=GSMModule Member=Component P1 Header 3

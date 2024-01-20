@@ -1,0 +1,7 @@
+Added Component: Designator=P?(SMB_V-RJ45)
+Added Pin To Net: NetName=RF_ANT Pin=P?-1
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Pin To Net: NetName=GND Pin=P?-2
+Added Member To Class: ClassName=GSMModule Member=Component P? SMA

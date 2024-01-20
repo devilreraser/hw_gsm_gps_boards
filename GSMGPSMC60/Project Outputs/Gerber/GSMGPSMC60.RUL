@@ -1,0 +1,16 @@
+DRC Rules Export File for PCB: D:\AProj\GSMGPSMC60\GSMGPSMC60.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_110V|Scope=Board|Minimum=39.37
+RuleKind=Clearance|RuleName=Clearance_220V_110V|Scope=Board|Minimum=39.37
+RuleKind=Clearance|RuleName=Clearance_220V|Scope=Board|Minimum=78.74
+RuleKind=Clearance|RuleName=Clearance_Poly|Scope=Board|Minimum=15.75
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Clearance|RuleName=Clearance_TrackU4|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Clearance_TrackAll|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_110V_NoNet|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance_Keepout|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance_240VAC_220V|Scope=Board|Minimum=39.37
+RuleKind=Clearance|RuleName=Clearance_Q1Q2Q3|Scope=Board|Minimum=39.37
+RuleKind=Clearance|RuleName=Clearance_PolySmall|Scope=Board|Minimum=7.87

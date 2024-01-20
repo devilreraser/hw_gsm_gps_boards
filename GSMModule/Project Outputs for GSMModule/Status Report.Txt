@@ -1,0 +1,10 @@
+Output: Report Single Pin Nets
+Type  : SinglePinNetReporter
+From  : Variant [[No Variations]] of Project [GSMModule.PrjPCB]
+   Generated File[GSMModule.REP]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 15:48:45 On 1.8.2012 ã.
