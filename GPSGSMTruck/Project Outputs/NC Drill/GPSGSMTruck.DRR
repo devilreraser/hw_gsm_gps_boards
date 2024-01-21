@@ -1,0 +1,30 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: GPSGSMTruck.PcbDoc   5/13/2017  12:16:50 AM
+---------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII Plated RoundHoles File : GPSGSMTruck-RoundHoles-Plated.TXT
+ASCII Non-Plated RoundHoles File : GPSGSMTruck-RoundHoles-NonPlated.TXT
+ASCII Plated SlotHoles File : GPSGSMTruck-SlotHoles-Plated.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.4mm (15.748mil)        Round          6                8.62 mm (0.34 Inch)
+T2        0.5mm (19.685mil)        Round          164              742.72 mm (29.24 Inch)
+T3        0.65mm (25.591mil)       Round          4                7.97 mm (0.31 Inch)
+T4        0.7mm (27.559mil)        Round          2                3.80 mm (0.15 Inch)
+T5        0.85mm (33.465mil)       Round          7                48.45 mm (1.91 Inch)
+T6        0.9mm (35.433mil)        Round          17               141.59 mm (5.57 Inch)
+T7        1mm (39.37mil)           Slot           3                7217.55 mm (284.16 Inch)
+T8        1.15mm (45.276mil)       Round          8                56.02 mm (2.21 Inch)
+T9        1.2mm (47.244mil)        Round          4                13.80 mm (0.54 Inch)
+T10       1.3mm (51.181mil)        Round          9                52.13 mm (2.05 Inch)
+T11       1.5mm (59.055mil)        Round          3                10.00 mm (0.39 Inch)
+T12       1.7mm (66.929mil)        Round          13               83.31 mm (3.28 Inch)
+T13       1.75mm (68.898mil)       Round          1                0.00 mm (0.00 Inch)
+T14       4mm (157.48mil)          Round          3                135.00 mm (5.31 Inch)
+T15       0.8mm (31.496mil)        Round          2         NPTH   4.40 mm (0.17 Inch)
+---------------------------------------------------------------------------
+Totals                                            246              8525.36 mm (335.64 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

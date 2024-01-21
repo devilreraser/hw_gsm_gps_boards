@@ -1,0 +1,4 @@
+Layer Pairs Export File for PCB: D:\AProj\GPSGSMTruck\GPSGSMTruck.PcbDoc
+LayersSetName=Top_Bot_Plated_Thru_Holes|DrillFile=gpsgsmtruck-roundholes-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_Plated_Slot_Holes|DrillFile=gpsgsmtruck-slotholes-plated.txt|LayerPairs=gtl,gbl
+LayersSetName=Top_Bot_NonPlated_Thru_Holes|DrillFile=gpsgsmtruck-roundholes-nonplated.txt|LayerPairs=gtl,gbl
