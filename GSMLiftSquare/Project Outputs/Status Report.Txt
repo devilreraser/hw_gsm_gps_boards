@@ -1,14 +1,12 @@
 Output: NC Drill Files
 Type  : NC Drill
 From  : PCB Document [GSMLiftSquare.PcbDoc]
-   Generated File[GSMLiftSquare-RoundHoles-Plated.TXT]
-   Generated File[GSMLiftSquare-RoundHoles-NonPlated.TXT]
-   Generated File[GSMLiftSquare-SlotHoles-Plated.TXT]
+   Generated File[GSMLiftSquare-Plated.TXT]
    Generated File[GSMLiftSquare.LDP]
    Generated File[GSMLiftSquare.DRR]
 
 
-Files Generated   : 5
+Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 12:13:48 PM On 1/28/2017
+Finished Output Generation At 10:22:53 PM On 4/24/2017

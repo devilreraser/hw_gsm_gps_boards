@@ -21,7 +21,7 @@ TargetOutputMedium=Project Outputs
 VariantName=[No Variations]
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=HP LaserJet 3200 Series PCL 5
+TargetPrinter=Microsoft XPS Document Writer
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintWhat=0
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer

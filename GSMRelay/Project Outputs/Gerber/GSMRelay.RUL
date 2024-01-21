@@ -1,8 +1,8 @@
 DRC Rules Export File for PCB: D:\AProj\GSMRelay\GSMRelay.PcbDoc
-RuleKind=Clearance|RuleName=Clearance_RELAY|Scope=Board|Minimum=39.37
-RuleKind=Clearance|RuleName=Clearance_Poly|Scope=Board|Minimum=15.75
-RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
-RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
-RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
-RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
 RuleKind=Clearance|RuleName=Clearance_Keepout|Scope=Board|Minimum=7.87
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=Clearance|RuleName=Clearance_Poly|Scope=Board|Minimum=15.75
+RuleKind=Clearance|RuleName=Clearance_RELAY|Scope=Board|Minimum=39.37

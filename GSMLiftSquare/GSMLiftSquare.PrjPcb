@@ -259,86 +259,90 @@ DocumentPath=Project Outputs\ExportSTEP\GSMLiftSquare(Production_Last).step
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs\NC Drill\GSMLiftSquare-RoundHoles-NonPlated.TXT
+DocumentPath=Project Outputs\NC Drill\GSMLiftSquare-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs\NC Drill\GSMLiftSquare-RoundHoles-Plated.TXT
+DocumentPath=Project Outputs\NC Drill\GSMLiftSquare-RoundHoles-NonPlated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs\NC Drill\GSMLiftSquare-SlotHoles-Plated.TXT
+DocumentPath=Project Outputs\NC Drill\GSMLiftSquare-RoundHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs\NC Drill\GSMLiftSquare.DRR
+DocumentPath=Project Outputs\NC Drill\GSMLiftSquare-SlotHoles-Plated.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs\Gerber\GSMLiftSquare.EXTREP
+DocumentPath=Project Outputs\NC Drill\GSMLiftSquare.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs\Gerber\GSMLiftSquare.GBL
+DocumentPath=Project Outputs\Gerber\GSMLiftSquare.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs\Gerber\GSMLiftSquare.GBP
+DocumentPath=Project Outputs\Gerber\GSMLiftSquare.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs\Gerber\GSMLiftSquare.GBS
+DocumentPath=Project Outputs\Gerber\GSMLiftSquare.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs\Gerber\GSMLiftSquare.GD1
+DocumentPath=Project Outputs\Gerber\GSMLiftSquare.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs\Gerber\GSMLiftSquare.GG1
+DocumentPath=Project Outputs\Gerber\GSMLiftSquare.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs\Gerber\GSMLiftSquare.GKO
+DocumentPath=Project Outputs\Gerber\GSMLiftSquare.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs\Gerber\GSMLiftSquare.GM3
+DocumentPath=Project Outputs\Gerber\GSMLiftSquare.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs\Gerber\GSMLiftSquare.GTL
+DocumentPath=Project Outputs\Gerber\GSMLiftSquare.GM3
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs\Gerber\GSMLiftSquare.GTO
+DocumentPath=Project Outputs\Gerber\GSMLiftSquare.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs\Gerber\GSMLiftSquare.GTP
+DocumentPath=Project Outputs\Gerber\GSMLiftSquare.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs\Gerber\GSMLiftSquare.GTS
+DocumentPath=Project Outputs\Gerber\GSMLiftSquare.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs\NC Drill\GSMLiftSquare.LDP
+DocumentPath=Project Outputs\Gerber\GSMLiftSquare.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs\Gerber\GSMLiftSquare.REP
+DocumentPath=Project Outputs\NC Drill\GSMLiftSquare.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs\Gerber\GSMLiftSquare.RUL
+DocumentPath=Project Outputs\Gerber\GSMLiftSquare.REP
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs\Pick Place\Pick Place for GSMLiftSquare(Production_Last).csv
+DocumentPath=Project Outputs\Gerber\GSMLiftSquare.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument23]
+DocumentPath=Project Outputs\Pick Place\Pick Place for GSMLiftSquare(Production_Last).csv
+DItemRevisionGUID=
+
+[GeneratedDocument24]
 DocumentPath=Project Outputs\Pick Place\Pick Place for GSMLiftSquare(Production_Last).txt
 DItemRevisionGUID=
 
